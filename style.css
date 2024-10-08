@@ -1,0 +1,43 @@
+.calculator{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.calcy-btn{
+    background-color: #ccc;
+    padding: 15px;
+}
+
+.form-check-label{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.firm{
+    text-align: left;
+}
+
+.btn{
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.col-lg-6 input{
+    border: 1px solid #ccc;
+}
+
+.col-lg-6 .final-tax{
+    border: 1px solid green;
+}
+
+.btn-back a{
+    color: white;
+    text-decoration: none;
+}
